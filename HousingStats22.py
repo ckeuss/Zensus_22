@@ -3,7 +3,7 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-
+import openpyxl
 
 # Streamlit set up
 st.set_page_config(page_title="Housing statistics 2022", layout = "wide")
