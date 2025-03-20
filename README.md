@@ -14,6 +14,7 @@ Ensure that the following prerequisites are met to run the scripts in this repos
 
 ### Data
 The data used in this Streamlit App is openly accessible [here](https://www.zensus2022.de/DE/Aktuelles/Gebaeude_Wohnungen_VOE.html).
+It was published in 2024 by the Federal Statistical Office - Statistisches Bundesamt.
 
 ### Access to the Zensus22 App
 
