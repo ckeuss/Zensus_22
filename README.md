@@ -1,4 +1,4 @@
-# Zensus22
+# Housing statistics Germany, Zensus 2022
 ## Streamlit App
 
 ### Project Overview
